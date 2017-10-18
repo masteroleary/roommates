@@ -6,6 +6,7 @@ take care of them before 9AM and before you leave the house
 - If you need a dish from the dishwasher try to empty it. 
 - If you cook something messy on the stove wipe it down after
 - If you use the counter to prepare food, wipe down the crumps and spills
+- Clean up after yourself, empty the bathroom trash, do the little things if it needs to be done even if its not your week for that chore list.
 
 # Chore Rotation Schedule - Date __________
 Each list should be rotated once a week. Don't repeat doing a list until everyone else has done the list again first. Cost of items that need replacements can be split but its your turn to take care of it.
