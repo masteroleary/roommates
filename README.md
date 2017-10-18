@@ -1,17 +1,21 @@
-`The purpose of this document is to ensure that no one feels like they are doing more than the others living together and that everyone is held accountable to contribute equally. This list will be printed out on a clipboard for each roommate to initial every 7 days or so. The day of the week is not important. Suggestions for this doc are welcome.`
+`The purpose of this document is to ensure that no one feels like they are doing more than the others living together and that everyone is held accountable to contribute equally. This list will be printed out on a clipboard for each Matthew O'leary to initial every 7 days or so.
 
 ### Mutual Roommate Agreement
 - Bedtime is at 12AM. If anyone is in their rooms upstairs, keep the noise quiet out of respect
 - If you are going to have people over make sure they do the same, unless its loud sex, then its ok.
 - When creating dishes during the day wash them after. If you create them late at night and leave them in the sink
 take care of them before 9AM and before you leave the house
-- If you need a dish from the dishwasher try to empty it. 
+- If you need a dish from the dishwasher try to empty it.
+- If you unlock the dishwasher and do not empty it, lock it again to signal that the dishes are clean.
 - If you cook something messy on the stove wipe it down after
 - If you use the counter to prepare food, wipe down the crumps and spills
 - Clean up after yourself, empty the bathroom trash, do the little things if it needs to be done even if its not your week for that chore list.
+- These chores are to improve upon an already clean house. If you make a mess it is your responsibility to clean it, regardless of the rotation.
+- A pool of $60 will be established for purchasing supplies and placed in the bathroom. When there is less than $20 each member will contribute $10 to the fund
+- Chore completion should be verified by another party in a timely manner.
 
 # Chore Rotation Schedule - Date __________
-Each list should be rotated once a week. Don't repeat doing a list until everyone else has done the list again first. Cost of items that need replacements can be split but its your turn to take care of it.
+Each list should be rotated once a week from Friday to Sunday. If you would like to complete tasks earlier or later you must have cause (schedule or travel plans that must be approved by roommates). If you require an extension, ask for it before 6PM on the day that it is due. Late completion (while present) incurrs a cost of $10 per day into the supply pool, reducing the cost of following contributions for other members. Don't repeat doing a list until everyone else has done the list again first. Cost of items that need replacements can be split but its your turn to take care of it. If you are absent for the week prior to your scheduled day, your week will be swapped with the next person in the rotation without asking for a deferrment.
 
 ## Upstairs Hall Bathroom - Initials ______________
 - [ ] Dirty Walls, Door, Baseboard dust
@@ -22,7 +26,7 @@ Each list should be rotated once a week. Don't repeat doing a list until everyon
 - [ ] Mirror
 - [ ] Sink / Counter
 - [ ] Trash
-- [ ] Remove items that don't belong including any in cabinet
+- [ ] Remove items that don't belong including any in cabinet ?what does this mean?
 - [ ] Replace light bulbs
 - [ ] Check vent for cob webs
 - [ ] Order new shower curtain if necessary 
@@ -49,12 +53,16 @@ Each list should be rotated once a week. Don't repeat doing a list until everyon
 - [ ] Carpet - Vacuum and Shampoo
 - [ ] Couch and Blue Chairs - Vacuum and Shampoo dirt spots
 
-## Vacuuming / Shampping Upstairs - Initials ______________
+## Kitchen - Initials ____________
+- [ ] Remove greese from cabinets above stove
+- [ ] Wipe down counters
+
+## Vacuuming / Shampooing Upstairs - Initials ______________
 - [ ] Vacuum Laundry Room, try to get behind dryer
 - [ ] Laundry Room Trash
 - [ ] Vacuum Hallway
 - [ ] Vacuum Bonus Room
-- [ ] Remove Items in Bonus Room that you left in there that dont belong
+- [ ] Remove Items (or notify owners of their presence) in Bonus Room that dont belong
 - [ ] Shampoo Hallway
 - [ ] Shampoo Bonus Room
 - [ ] Empty Vacuum and Shampooer immediately
@@ -70,4 +78,4 @@ Each list should be rotated once a week. Don't repeat doing a list until everyon
 
 ## Yard - Initials ______________
 - [ ] Dog Poop for dog owners
-- [ ] Throw away junk or trash
+- [ ] Throw away junk or trash ?There should be no junk or trash left in the yard?
