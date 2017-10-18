@@ -1,6 +1,8 @@
 `The purpose of this document is to ensure that no one feels like they are doing more than the others living together and that everyone is held accountable to contribute equally. This list will be printed out on a clipboard for each roommate to initial every 7 days or so. The day of the week is not important. Suggestions for this doc are welcome.`
 
 ### Mutual Roommate Agreement
+- Bedtime is at 12AM. If anyone is in their rooms upstairs, keep the noise quiet out of respect
+- If you are going to have people over make sure they do the same, unless its loud sex, then its ok.
 - When creating dishes during the day wash them after. If you create them late at night and leave them in the sink
 take care of them before 9AM and before you leave the house
 - If you need a dish from the dishwasher try to empty it. 
