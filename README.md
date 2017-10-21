@@ -11,8 +11,10 @@ take care of them before 9AM and before you leave the house
 - If you use the counter to prepare food, wipe down the crumps and spills
 - Clean up after yourself, empty the bathroom trash, do the little things if it needs to be done even if its not your week for that chore list.
 - These chores are to improve upon an already clean house. If you make a mess it is your responsibility to clean it, regardless of the rotation.
-- A pool of $60 will be established for purchasing supplies and placed in the bathroom. When there is less than $20 each member will contribute $10 to the fund
+- A pool of $80 will be established for purchasing supplies and placed in the bathroom. When there is less than $20 each member will contribute $10 to the fund, and the accounting is to be written on the envalope.
 - Chore completion should be verified by another party in a timely manner.
+- The person who purchases supplies will leave the reciept in the supplies pool envalope for review
+- Cleaning supplies needed to complete chores should be itemized on the following week's chore list, added when they run out by the person using them
 
 # Chore Rotation Schedule - Date __________
 Each list should be rotated once a week from Friday to Sunday. If you would like to complete tasks earlier or later you must have cause (schedule or travel plans that must be approved by roommates). If you require an extension, ask for it before 6PM on the day that it is due. Late completion (while present) incurrs a cost of $10 per day into the supply pool, reducing the cost of following contributions for other members. Don't repeat doing a list until everyone else has done the list again first. Cost of items that need replacements can be split but its your turn to take care of it. If you are absent for the week prior to your scheduled day, your week will be swapped with the next person in the rotation without asking for a deferrment.
@@ -26,7 +28,7 @@ Each list should be rotated once a week from Friday to Sunday. If you would like
 - [ ] Mirror
 - [ ] Sink / Counter
 - [ ] Trash
-- [ ] Remove items that don't belong including any in cabinet ?what does this mean?
+- [ ] Remove items that don't belong including any in cabinet
 - [ ] Replace light bulbs
 - [ ] Check vent for cob webs
 - [ ] Order new shower curtain if necessary 
@@ -54,8 +56,11 @@ Each list should be rotated once a week from Friday to Sunday. If you would like
 - [ ] Couch and Blue Chairs - Vacuum and Shampoo dirt spots
 
 ## Kitchen - Initials ____________
-- [ ] Remove greese from cabinets above stove
-- [ ] Wipe down counters
+- [ ] Remove greese from cabinets and above stove
+- [ ] Clean surface of wine rack
+- [ ] Wipe down counters and sink
+- [ ] Remove bottles and cardboard
+- [ ] Clean appliance surfaces
 
 ## Vacuuming / Shampooing Upstairs - Initials ______________
 - [ ] Vacuum Laundry Room, try to get behind dryer
@@ -78,4 +83,8 @@ Each list should be rotated once a week from Friday to Sunday. If you would like
 
 ## Yard - Initials ______________
 - [ ] Dog Poop for dog owners
-- [ ] Throw away junk or trash ?There should be no junk or trash left in the yard?
+- [ ] Throw away junk or trash
+
+## Supplies - Initials _____________
+- [ ] Purchase cleaning supplies from the weekly chore list for weekend chores
+- [ ] Print weekly chorse list for the following week
