@@ -1,4 +1,4 @@
-`This may seem like an exhaustive list. It is the result of one bad egg who did a half assed job cleaning while the other tenants had to wipe up his piss. Literally that happened. The purpose of this document is to ensure that no one feels like they are doing more than the other tenants and that everyone is held accountable to contribute equally. Things can be lax and easy going until someone inconveniences everyone else. Be a decent human.
+`This may seem like an exhaustive list. It is the result of one bad egg who did a half assed job cleaning while the other tenants had to wipe up his piss. Literally that happened. The purpose of this document is to ensure that no one feels like they are doing more than the other tenants and that everyone is held accountable to contribute equally. Things can be lax and easy going until someone inconveniences everyone else. Be a decent human.`
 
 ### Mutual Roommate Agreement
 - Bedtime is at 12AM. Everyone works on a different schedule. If anyone is in their rooms upstairs, keep the noise quiet out of respect
